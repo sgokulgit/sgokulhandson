@@ -17,7 +17,7 @@ public class Tutorials20 {
 
         p1.displayValue(10,15);
 
-        System.out.println("THis is the updage from Mac - Deleted the windows items.");
+        System.out.println("from AntotherUser Repo");
 
     }
 }
